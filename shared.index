@@ -1,0 +1,13 @@
+{
+    "name" : "shared",
+        "description" : "Contains all Shared Functionality for Automic Packages",
+        "repository" : {
+            "type" : "http",
+            "url" : "https://github.com/Automic/Shared/archive/0.0.1.zip",
+            "version": "0.0.1",
+            "sha1" : "9cac9de1357460a9692c015735c899519c85d0da"
+        },
+        "author" : "Automic Software GmbH",
+        "homepage" : "https://automic.github.io/Shared",
+        "license" : "Commercial"
+}
