@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.TEST_PACKAGE",
+  "description" : "Just a test package with default structure",
+  "repository" : {
+    "type" : "http",
+    "branch" : "master",
+    "url" : "https://github.com/dohoangkhiem/pck.test_package/archive/master.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "6b9682de17ed2422a0bb6f554218c2a8967bbffa",
+    "dependencies" : {
+      "PCK.Z" : ">=1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "Free",
+  "categories" : "Actions",
+  "title" : "TEST PACKAGE"
+}
