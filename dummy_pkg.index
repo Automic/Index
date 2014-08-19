@@ -1,0 +1,19 @@
+{
+  "name" : "DUMMY_PKG",
+  "description" : "Just a dummy package",
+  "repository" : {
+    "type" : "http",
+    "branch" : "master",
+    "url" : "https://bitbucket.org/dohoangkhiem/dummy_pkg/get/f82ec69f897b.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "a361d1de67b9b1d977eab82c7b5c381778c94e07",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
