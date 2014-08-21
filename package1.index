@@ -1,0 +1,19 @@
+{
+  "name" : "PACKAGE1",
+  "description" : "",
+  "repository" : {
+    "type" : "http",
+    "branch" : "master",
+    "url" : "https://github.com/cuongbm/package1/archive/master.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "13e921094ec545acd736dc93301a11b691319d30",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
