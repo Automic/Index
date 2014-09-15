@@ -2,7 +2,7 @@
   "name" : "PCK.AUTOMIC_SHARED",
   "description" : "This package contains usefull scripts to build actions",
   "repository" : {
-    "type" : "file",
+    "type" : "archive",
     "branch" : "master",
     "url" : "https://github.com/Automic/Shared/archive/master.zip",
     "devel" : { },
