@@ -2,7 +2,7 @@
   "name" : "DUMMY_PKG",
   "description" : "Just a dummy package",
   "repository" : {
-    "type" : "http",
+    "type" : "archive",
     "branch" : "master",
     "url" : "https://bitbucket.org/dohoangkhiem/dummy_pkg/get/f82ec69f897b.zip",
     "devel" : { },
