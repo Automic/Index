@@ -2,7 +2,7 @@
   "name" : "PACKAGE1",
   "description" : "",
   "repository" : {
-    "type" : "http",
+    "type" : "archive",
     "branch" : "master",
     "url" : "https://github.com/cuongbm/package1/archive/master.zip",
     "devel" : { },
