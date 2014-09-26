@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SIEBEL",
+  "description" : "This package contains usefull scripts to build actions",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "git@github.com:Automic/Siebel.git",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.8.0",
+    "sha1" : "b6e81f0a7d5c528af6731ced6c343ec9bf14b776",
+    "dependencies" : {
+      "PCK.AUTOMIC_SHARED" : "~>0.7.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Siebel",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Siebel Package"
+}
