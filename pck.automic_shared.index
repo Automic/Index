@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_SHARED",
+  "description" : "This package contains usefull scripts to build actions",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "git@github.com:Automic/Shared.git",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.7.0",
+    "sha1" : "4084feac5a986d807f0d96824bbc81fc0ba11629",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Actions",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Shared Library"
+}
