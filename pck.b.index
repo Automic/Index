@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.B",
+  "description" : "",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "file:///E:/testrepo/B",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.2",
+    "sha1" : "a28cc9db1b5523d5a2549bbe4d5d1d350f1842f1",
+    "dependencies" : {
+      "PCK.D" : ">2.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "test",
+  "title" : "Package B"
+}
