@@ -1,16 +1,16 @@
 {
   "name" : "PCK.AUTOMIC_SIEBEL",
-  "description" : "This package contains usefull scripts to build actions",
+  "description" : "The Siebel Offering speeds up the deployment of Siebel applications. It also reduces downtime and increases agility of Siebel environments.",
   "repository" : {
-    "type" : "git",
+    "type" : "archive",
     "branch" : "master",
-    "url" : "git@github.com:Automic/Siebel.git",
+    "url" : "ftp://ftp.automic.com/Automated.Siebel.Deployment/2014-1/Package.Siebel/PCK.AUTOMIC_SIEBEL_1.0.0.zip",
     "devel" : { },
     "head" : { },
-    "version" : "0.8.0",
-    "sha1" : "b6e81f0a7d5c528af6731ced6c343ec9bf14b776",
+    "version" : "1.0.0",
+    "sha1" : "d7a399d5ccbfdfc49a660b1881bf7991f9ebf312",
     "dependencies" : {
-      "PCK.AUTOMIC_SHARED" : "~>0.7.0"
+      "PCK.AUTOMIC_SHARED" : "~>1.0.0"
     }
   },
   "company" : "Automic Software GmbH",
