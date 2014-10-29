@@ -1,6 +1,6 @@
 {
   "name" : "PCK.AUTOMIC_WEBLOGIC",
-  "description" : "This package contains usefull scripts to build actions",
+  "description" : "This package contains usefull scripts to build actions zzz",
   "repository" : {
     "type" : "git",
     "branch" : "master",
