@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.AUTOMIC_DATABASE",
+  "description" : "This package contains actions to interact with a database management system via JDBC.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automated.Siebel.Deployment/2014-1/Package.Database/PCK.AUTOMIC_DATABASE_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "dda6ef1cb9985f044bf09ccd46353ee63c88f654",
+    "dependencies" : {
+      "PCK.AUTOMIC_SHARED" : "~>1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Database",
+  "title" : "Automic Database Package"
+}
