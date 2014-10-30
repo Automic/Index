@@ -1,6 +1,6 @@
 {
   "name" : "DUMMY_PKG",
-  "description" : "Just a dummy package",
+  "description" : "Just a dummy package 2",
   "repository" : {
     "type" : "git",
     "branch" : "master",
