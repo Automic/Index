@@ -1,6 +1,6 @@
 {
   "name" : "PCK.AUTOMIC_SHARED",
-  "description" : "This package contains usefull scripts to build actions 2",
+  "description" : "This package contains usefull scripts to build actions",
   "repository" : {
     "type" : "git",
     "branch" : "master",
