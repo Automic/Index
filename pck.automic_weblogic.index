@@ -1,6 +1,6 @@
 {
   "name" : "PCK.AUTOMIC_WEBLOGIC",
-  "description" : "This package contains usefull scripts to build actions",
+  "description" : "This package contains usefull scripts to build actions - changed by dohoangkhiem - 2 - changed by khiemdohoang - 2 - change by dohoangkhiem - 3",
   "repository" : {
     "type" : "git",
     "branch" : "master",
