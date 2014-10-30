@@ -1,14 +1,14 @@
 {
   "name" : "PCK.AUTOMIC_SHARED",
-  "description" : "This package contains usefull scripts to build actions",
+  "description" : "This package contains commonly used components and actions.",
   "repository" : {
-    "type" : "git",
+    "type" : "archive",
     "branch" : "master",
-    "url" : "git@github.com:Automic/Shared.git",
+    "url" : "ftp://ftp.automic.com/One.Automation.Platform/V11/Package.Manager/PCK.AUTOMIC_SHARED_1.0.0.zip",
     "devel" : { },
     "head" : { },
-    "version" : "0.7.0",
-    "sha1" : "4084feac5a986d807f0d96824bbc81fc0ba11629",
+    "version" : "1.0.0",
+    "sha1" : "3ba59cf226ca4ffbcd7499828cc61d9b6b88ec6a",
     "dependencies" : { }
   },
   "company" : "Automic Software GmbH",
