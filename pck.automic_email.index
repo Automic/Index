@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_EMAIL",
+  "description" : "",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "https://github.com/Automic/Email.git",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.0.1",
+    "sha1" : "bd68ec07114b6f531fa41aa8dd0b8b2850ad039e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=0.0.1",
+      "PCK.AUTOMIC_ARATOOLS" : ">=0.1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
