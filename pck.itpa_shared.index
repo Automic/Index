@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.ITPA_SHARED",
+  "description" : "",
+  "repository" : {
+    "type" : "git",
+    "branch" : "master",
+    "url" : "https://github.com/Automic/ITPA-Shared.git",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.0.1",
+    "sha1" : "33c978082d846ed5688e2737792ed98326d39654",
+    "dependencies" : {
+      "PCK.AUTOMIC_ARATOOLS" : ">=0.1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
