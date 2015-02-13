@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SMB",
+  "description" : "Download files from a host via SMB.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SMB/Package.SMB_PCK.AUTOMIC_SMB_1_0_0+build.56.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "3c12bb46e00cd57b1ead6efc39181508d37c1c0f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic SMB"
+}
