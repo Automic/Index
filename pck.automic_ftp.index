@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_FTP",
+  "description" : "Download files from an FTP or FTPS server.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.FTP/Package.FTP_PCK.AUTOMIC_FTP_1_0_0+build.23.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "ad8e9decc8b806bdd8ffd1d7c33b3b4652043637",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic FTP"
+}
