@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_TFS",
+  "description" : "Gets (downloads) either the latest version or a specified version of one or more files or folders from Team Foundation Server to the workspace.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.TFS/Package.TFS_PCK.AUTOMIC_TFS_1_0_0+build.59.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "282f266b4a0effdc4760c7d7fa139a1e364f4a04",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "SCM, Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic TFS"
+}
