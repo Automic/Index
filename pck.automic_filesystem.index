@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_FILESYSTEM",
+  "description" : "Create and copy files and directories. Extract and compress archives.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.Filesystem/Package.FILESYSTEM_PCK.AUTOMIC_FILESYSTEM_1_0_0+build.70.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "9e7ac988467f937632cced174fe62efae16af40a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "File, Disk",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Filesystem"
+}
