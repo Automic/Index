@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_EMAIL",
+  "description" : "Send and receive emails via SMTP and IMAP.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.Email/Package.Email_PCK.AUTOMIC_EMAIL_1_0_0+build.91.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "c2470cdbdaed34471f74ea788faeceec9a86a082",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Comercial",
+  "categories" : "Notification",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Email Package"
+}
