@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TEXT",
+  "description" : "Manipulate text files.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.Text/Package.TEXT_PCK.AUTOMIC_TEXT_1_0_0+build.17.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "c6be0df80eeed07959c3f7d64e4a3e506ec092f3",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "File manipulation",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Text manipulation"
+}
