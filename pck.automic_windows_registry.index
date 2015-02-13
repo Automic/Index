@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_WINDOWS_REGISTRY",
+  "description" : "Manipulate the Windows Registry of the target host. (Microsoft Windows 2003, Microsoft Windows 2008)",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.Windows.Registry/Package.Windows.Registry_PCK.AUTOMIC_WINDOWS_REGISTRY_1_0_0+build.60.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "c87a935152b7e6ccc1c5af3d8c3938590bc5b2ff",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "Automic Software GmbH",
+  "license" : "",
+  "categories" : "OS, WIN",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Windows Registry"
+}
