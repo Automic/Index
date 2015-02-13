@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_WINDOWS_SERVICE",
+  "description" : "Manipulate (start, stop, create, etc.) Windows services.\n \n=Supported Platforms=\n \n* Windows Server 2003\n* Windows Server 2008\n* Windows Server 2008 R2",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.Windows.Service/Package.Windows.Service.Manager_PCK.AUTOMIC_WINDOWS_SERVICE_1_0_0+build.54.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "a2927e73ef819be03f43b5131ed1e675ad1f4ea8",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Comercial",
+  "categories" : "OS, WIN",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Windows Service"
+}
