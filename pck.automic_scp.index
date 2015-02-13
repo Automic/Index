@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SCP",
+  "description" : "Securely transfer files between a remote host and an agent.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SCP/Package.SCP_PCK.AUTOMIC_SCP_1_0_0+build.29.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "3b0ac4768e17f0c56435fbac884494aa4a6a97fc",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic SCP"
+}
