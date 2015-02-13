@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SVN",
+  "description" : "Export a clean directory tree from a SVN Server.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SVN/Package.SVN_PCK.AUTOMIC_SVN_1_0_0+build.63.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "09801942f0d2412d34da36198c870b96d49a7ff9",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "SCM, Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "SVN Export"
+}
