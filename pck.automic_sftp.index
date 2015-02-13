@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SFTP",
+  "description" : "Download files from an SFTP server.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SFTP/Package.SFTP_PCK.AUTOMIC_SFTP_1_0_0+build.48.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "f45cad0979fe450ac535f45b7ef78bb5572bd18e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0",
+      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download ",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic SFTP"
+}
