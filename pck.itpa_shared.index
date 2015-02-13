@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.ITPA_SHARED",
+  "description" : "Basic building blocks for package development and bootstrapping new actions",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.ITPA.Shared/Package.ITPA.Shared_PCK.ITPA_SHARED_1_0_0+build.74.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "a06c3c36a75e928105dcb70d8f266ee4c0fe1615",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Utility",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "ITPA Shared"
+}
