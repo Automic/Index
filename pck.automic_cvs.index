@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CVS",
+  "description" : "Export sources from CVS.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.CVS/Package.CVS_PCK.AUTOMIC_CVS_1_0_0+build.68.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "cd07d26817276ea5345fd43210f29af30ffb13f5",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">=1.0.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "http://www.automic.com",
+  "license" : "",
+  "categories" : "SCM, Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "CVS package"
+}
