@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SVN/Package.SVN_PCK.AUTOMIC_SVN_1_0_0+build.63.zip",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1-HF1/2015-05-07/Package.SVN/Package.SVN_PCK.AUTOMIC_SVN_1_0_0+build.63.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
