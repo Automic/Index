@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.SMB/Package.SMB_PCK.AUTOMIC_SMB_1_0_0+build.56.zip",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1-HF1/2015-05-07/Package.SMB/Package.SMB_PCK.AUTOMIC_SMB_1_0_0+build.56.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
