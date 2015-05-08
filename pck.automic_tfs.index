@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1/2015-02-13/Package.TFS/Package.TFS_PCK.AUTOMIC_TFS_1_0_0+build.59.zip",
+    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/2015-1-HF1/2015-05-07/Package.TFS/Package.TFS_PCK.AUTOMIC_TFS_1_0_0+build.59.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
