@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/1.0.0/2015-07-03/Package.HP.Quality.Center/Package.HP.Quality.Center_PCK.AUTOMIC_HPQC_1_0_0+build.23.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Content/2015-07-03/Package.HP.Quality.Center/Package.HP.Quality.Center_PCK.AUTOMIC_HPQC_1_0_0+build.23.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
