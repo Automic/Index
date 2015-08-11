@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.AUTOMIC_DOCKER",
+  "description" : "Provides integration with Docker",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Content/2015-08-03/Package.Docker/Package.Docker_PCK.AUTOMIC_DOCKER_1_0_0+build.31.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "4b5b8d85448f9afc30ea465b8c92ceac644204bb",
+    "dependencies" : {
+      "PCK.AUTOMIC_SHARED" : "~>1.1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "Automic Licence",
+  "categories" : "Docker Integration",
+  "title" : "Docker package"
+}
