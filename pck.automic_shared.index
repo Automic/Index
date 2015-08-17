@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/One.Automation.Platform/V11.1/2015-02-13/Package.Manager/Package.Shared_PCK.AUTOMIC_SHARED_1_1_0+build.29.zip",
+    "url" : "ftp://ftp.automic.com/One.Automation.Platform/11.1.1/2015-08-14/Package.Manager/Package.Shared_PCK.AUTOMIC_SHARED_1_1_0+build.30.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "5cfe75ffe66037a45e7907dab97d57424ccb5ed0",
+    "version" : "1.0.0",
+    "sha1" : "4a15aae371020cb589a9849b103eabdd381687ad",
     "dependencies" : { }
   },
   "company" : "Automic Software GmbH",
