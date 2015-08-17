@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/One.Automation.Platform/11.1.1/2015-08-14/Package.Manager/Package.Shared_PCK.AUTOMIC_SHARED_1_1_0+build.30.zip",
+    "url" : "ftp://ftp.automic.com/ONE.Automation.Platform/11.1.1/2015-08-14/Package.Manager/Package.Shared_PCK.AUTOMIC_SHARED_1_1_0+build.30.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
