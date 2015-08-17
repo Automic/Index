@@ -4,13 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automated.Siebel.Deployment/2015-1/2015-02-13/Package.Siebel/Package.Siebel_PCK.AUTOMIC_SIEBEL_2_0_0+build.31.zip",
+    "url" : "ftp://ftp.automic.com/Automated.Siebel.Deployment/1.1.1/2015-07-31/Package.Siebel/Package.Siebel_PCK.AUTOMIC_SIEBEL_2_0_0+build.32.zip",
     "devel" : { },
     "head" : { },
     "version" : "2.0.0",
-    "sha1" : "b7b09079a427e57135a155d3ff31927553eb2381",
+    "sha1" : "bee127752deb41472a3033a5a5f0d5e2c104f782",
     "dependencies" : {
-      "PCK.AUTOMIC_SHARED" : "~>1.1.0"
+      "PCK.AUTOMIC_SHARED" : "~>1.0.0"
     }
   },
   "company" : "Automic Software GmbH",
