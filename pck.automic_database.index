@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automated.Siebel.Deployment/1.1.1/2015-07-31/Package.Database/Package.Database_PCK.AUTOMIC_DATABASE_1_1_0+build.19.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Database_PCK.AUTOMIC_DATABASE_1_1_0+build.19.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.1.0",
-    "sha1" : "f87107ad1d1144c3bb785d0eb40a30f476b4a9c3",
+    "sha1" : "5c3f2694c2f38ac56f2c4b816cdc513a7597e9f6",
     "dependencies" : {
       "PCK.AUTOMIC_SHARED" : "~>1.1.0"
     }
