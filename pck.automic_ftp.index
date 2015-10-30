@@ -4,14 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.FTP/Package.FTP_PCK.AUTOMIC_FTP_1_0_0+build.23.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.FTP_PCK.AUTOMIC_FTP_1_1_0+build.71.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "ad8e9decc8b806bdd8ffd1d7c33b3b4652043637",
+    "version" : "1.1.0",
+    "sha1" : "93be101d1441fd4d462b348f294f0f27344e76a6",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
