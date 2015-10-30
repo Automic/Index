@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_IBM_WEBSPHERE",
+  "description" : "Manage application deployments to a IBM Web-sphere application server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.IBM.WebSphere_PCK.AUTOMIC_IBM_WEBSPHERE_1_0_0+build.203.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "d59ba9e7e1e1a407ee08db70d68126af0a19681f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic IBM_WEBSPHERE"
+}
