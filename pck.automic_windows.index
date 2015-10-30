@@ -1,17 +1,16 @@
 {
   "name" : "PCK.AUTOMIC_WINDOWS",
-  "description" : "Execute Windows-specific commands, maping network drives, get OS-specific information etc. (Microsoft Windows 2003, Microsoft Windows 2008, Microsoft Windows 2008 R2)",
+  "description" : "Execute Windows-specific commands, maping network drives, get OS-specific information etc.",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.Windows/Package.WINDOWS_PCK.AUTOMIC_WINDOWS_1_0_0+build.15.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Windows_PCK.AUTOMIC_WINDOWS_1_1_0+build.68.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "a4322368540511cd0f26a336627749b0302b073e",
+    "version" : "1.1.0",
+    "sha1" : "7c1704447300e1ff501d5b3910c15fc1a804e094",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
