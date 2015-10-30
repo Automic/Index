@@ -4,14 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.Agent.to.Agent/Package.AGENT.2.AGENT_PCK.AUTOMIC_AGENT_2_AGENT_1_0_0+build.22.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Agent.2.Agent_PCK.AUTOMIC_AGENT_2_AGENT_1_1_0+build.70.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "f61397a39db8879f204409d5f02fd4201362f10d",
+    "version" : "1.1.0",
+    "sha1" : "f9befb164d14f07f2e95e1fdbd1561ff3f8e354a",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
