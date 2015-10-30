@@ -1,21 +1,20 @@
 {
   "name" : "PCK.AUTOMIC_SVN",
-  "description" : "Export a clean directory tree from a SVN Server.",
+  "description" : "Provides actions to work with Subversion",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.SVN/Package.SVN_PCK.AUTOMIC_SVN_1_0_0+build.63.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.SVN_PCK.AUTOMIC_SVN_1_1_0+build.118.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "09801942f0d2412d34da36198c870b96d49a7ff9",
+    "version" : "1.1.0",
+    "sha1" : "8c8bae31f6af84f11865cc0d5fc4877a6f7226ed",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
-  "homepage" : "http://www.automic.com",
+  "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "SCM, Versioning",
   "packageFormatVersion" : "0.1.0",
