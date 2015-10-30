@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Content/2015-08-03/Package.Docker/Package.Docker_PCK.AUTOMIC_DOCKER_1_0_0+build.31.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Docker_PCK.AUTOMIC_DOCKER_1_0_0+build.31.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
