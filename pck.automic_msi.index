@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_MSI",
+  "description" : "These actions install/uninstall or check the state of MSI packages on Windows operation systems.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.MSI_PCK.AUTOMIC_MSI_1_0_0+build.31.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "2c2028f9a28dfd1dc8f74e98c7bb66adca265ab8",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "System, Utilities",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic MSI"
+}
