@@ -4,14 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.SCP/Package.SCP_PCK.AUTOMIC_SCP_1_0_0+build.29.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.SCP_PCK.AUTOMIC_SCP_1_1_0+build.75.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "3b0ac4768e17f0c56435fbac884494aa4a6a97fc",
+    "version" : "1.1.0",
+    "sha1" : "94caf171029b1f42161f8a8211935322dd1fa94f",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
