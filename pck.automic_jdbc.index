@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JDBC",
+  "description" : "This package contains actions to interact with a database management system via JDBC.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JDBC_PCK.AUTOMIC_JDBC_1_0_0+build.56.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "a3a3ece7eb11d150d99c6825de488c437af2dd9d",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Database",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic JDBC Package"
+}
