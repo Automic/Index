@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.ITPA.Shared/Package.ITPA.Shared_PCK.ITPA_SHARED_1_0_0+build.74.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.ITPA.Shared_PCK.ITPA_SHARED_1_1_0+build.155.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "a06c3c36a75e928105dcb70d8f266ee4c0fe1615",
+    "version" : "1.1.0",
+    "sha1" : "41552323acf1e415a71b35be89fe8c5f086c7676",
     "dependencies" : { }
   },
   "company" : "Automic Software GmbH",
