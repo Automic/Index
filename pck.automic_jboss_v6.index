@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JBOSS_V6",
+  "description" : "Application Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JBoss.v6_PCK.AUTOMIC_JBOSS_V6_1_0_0+build.86.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "1a37156b2becd96003294948673d8a7b7e042df8",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "JBOSS_V6"
+}
