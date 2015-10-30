@@ -1,17 +1,16 @@
 {
   "name" : "PCK.AUTOMIC_UNIX",
-  "description" : "These actions execute basic commands on a UNIX operating system. (Any UNIX systems supporting bourne shell (sh) or a compatible alternative is required.)",
+  "description" : "These actions execute basic commands on a UNIX operating system.",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.Unix/Package.UNIX_PCK.AUTOMIC_UNIX_1_0_0+build.12.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Unix_PCK.AUTOMIC_UNIX_1_1_0+build.53.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "39d34fd29e42ef2ed08494dc46268dbc882a6aa8",
+    "version" : "1.1.0",
+    "sha1" : "ffbc6d75726eb6fe022dfd10719f33656db76aa5",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
