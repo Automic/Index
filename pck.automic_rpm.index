@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_RPM",
+  "description" : "Provides actions for controlling the RPM Package Manager",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.RPM_PCK.AUTOMIC_RPM_1_0_0+build.36.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "ca3d98c311127bdb632b7f391f038567701d97be",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Package manager",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic RPM"
+}
