@@ -4,14 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.HTTP/Package.HTTP_PCK.AUTOMIC_HTTP_1_0_0+build.46.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.HTTP_PCK.AUTOMIC_HTTP_1_1_0+build.122.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "0c41a7134930408fdf8798334c062bae2e3521a3",
+    "version" : "1.1.0",
+    "sha1" : "66fe0e2ee7b4c81d948ed4429c98f0b3e2b8e2d0",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
@@ -19,5 +18,5 @@
   "license" : "",
   "categories" : "Network, Download",
   "packageFormatVersion" : "0.1.0",
-  "title" : "Automic HTTP"
+  "title" : "Automic HTTP package"
 }
