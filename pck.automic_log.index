@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_LOG",
+  "description" : "The log file collector is able to collect relevant sections of all affected log files concerning an application component.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Log_PCK.AUTOMIC_LOG_1_0_0+build.43.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "3f8478e12c7f510fa2bd30ad6c445705da1ecb2c",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Other",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Log"
+}
