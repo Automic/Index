@@ -4,18 +4,17 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.SFTP/Package.SFTP_PCK.AUTOMIC_SFTP_1_0_0+build.48.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.SFTP_PCK.AUTOMIC_SFTP_1_1_0+build.90.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "f45cad0979fe450ac535f45b7ef78bb5572bd18e",
+    "version" : "1.1.0",
+    "sha1" : "32c0ca980ebd56452c8856e0c94b78c50f3189dd",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
-  "homepage" : "http://www.automic.com",
+  "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Network, Download ",
   "packageFormatVersion" : "0.1.0",
