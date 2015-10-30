@@ -4,18 +4,17 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Application.Service.Orchestration/1.1.1/2015-07-31/Package.Filesystem/Package.FILESYSTEM_PCK.AUTOMIC_FILESYSTEM_1_0_0+build.70.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Filesystem_PCK.AUTOMIC_FILESYSTEM_1_1_0+build.80.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "9e7ac988467f937632cced174fe62efae16af40a",
+    "version" : "1.1.0",
+    "sha1" : "8f3675a8be2ef8ec008b4e4f23d4f1ed5f668e33",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">=1.0.0",
-      "PCK.AUTOMIC_ARATOOLS" : ">=1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
-  "homepage" : "http://www.automic.com",
+  "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "File, Disk",
   "packageFormatVersion" : "0.1.0",
