@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_VSS",
+  "description" : "This package contains actions to interact with Microsoft Visual SourceSafe",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.VSS_PCK.AUTOMIC_VSS_1_0_0+build.27.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "b4a57c746aea8b1bdb8cd692d82fb43a6cad1885",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "VSS",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic VSS package"
+}
