@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CONNECTIVITY",
+  "description" : "Basic networking functionality.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Connectivity_PCK.AUTOMIC_CONNECTIVITY_1_0_0+build.45.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "ed6984370fed97ea1ba53c239c62ed11f834c177",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Utilities",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Connectivity"
+}
