@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.AUTOMIC_AZURE",
+  "description" : "Provides integration with Azure",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_0+build.55.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "8e95262f16892af8728f9effa189b17ee6e0a007",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Commercial",
+  "categories" : "Azure Integration",
+  "title" : "Automic Azure Package"
+}
