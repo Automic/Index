@@ -4,13 +4,13 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_0+build.55.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_1+build.57.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "8e95262f16892af8728f9effa189b17ee6e0a007",
+    "version" : "1.0.1",
+    "sha1" : "33211255f27d260ea6c242ba33588db36a45756a",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : "~>1.1.0"
+      "PCK.ITPA_SHARED" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
