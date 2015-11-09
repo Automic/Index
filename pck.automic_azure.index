@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_1+build.57.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_2+build.60.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.1",
-    "sha1" : "33211255f27d260ea6c242ba33588db36a45756a",
+    "version" : "1.0.2",
+    "sha1" : "30a36fc4cd01dce2b3a63dcf03bc2d5a77d60e94",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,5 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "Commercial",
   "categories" : "Azure Integration",
+  "packageFormatVersion" : "0.1.0",
   "title" : "Automic Azure Package"
 }
