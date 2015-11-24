@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_OPENSTACK",
+  "description" : "Provides integration with OpenStack",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.OpenStack_PCK.AUTOMIC_OPENSTACK_1_0_0+build.35.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "02abc0c17067fb2b438bf909598c60ef1c894d7f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Commercial",
+  "categories" : "OpenStack Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic OpenStack Package"
+}
