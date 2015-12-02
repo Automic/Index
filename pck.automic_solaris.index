@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SOLARIS",
+  "description" : "These actions install, upgrade, remove and query installed packages on your Solaris host.\nThe actions are wrappers around the pkgadd, pkgrm, pkginfo command line tools.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Solaris_PCK.AUTOMIC_SOLARIS_1_0_0+build.31.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "61700dc14e5600f84f557bb1e0f6b5f19b9713fb",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Package Manager",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "SOLARIS"
+}
