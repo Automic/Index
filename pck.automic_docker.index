@@ -4,18 +4,19 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Docker_PCK.AUTOMIC_DOCKER_1_1_0+build.43.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Docker_PCK.AUTOMIC_DOCKER_1_2_0+build.54.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "061d66bc0923ea5a3f09987c3935d40e3bcc6728",
+    "version" : "1.2.0",
+    "sha1" : "80862f6b85621cdcbbc861fc43da5eaa3f23d664",
     "dependencies" : {
-      "PCK.AUTOMIC_SHARED" : "~>1.0.0"
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
-  "license" : "Automic Licence",
+  "license" : "Commercial",
   "categories" : "Docker Integration",
   "packageFormatVersion" : "0.1.0",
   "title" : "Automic Docker Package"
