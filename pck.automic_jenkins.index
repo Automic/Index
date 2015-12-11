@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JENKINS",
+  "description" : "Executes a parametrized Jenkins build job.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Jenkins_PCK.AUTOMIC_JENKINS_1_0_0+build.17.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e35011dcf4a3e855f18357b928299464a932d2be",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Continuous Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Jenkins"
+}
