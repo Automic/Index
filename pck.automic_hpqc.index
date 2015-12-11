@@ -4,18 +4,20 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.HP.Quality.Center_PCK.AUTOMIC_HPQC_1_0_0+build.23.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.HP.Quality.Center_PCK.AUTOMIC_HPQC_1_1_0+build.28.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "d361194e4a8447fbb24f5e3c3fc4fad0c6981599",
+    "version" : "1.1.0",
+    "sha1" : "3d9daac929482f3979068f480cb0db23f4a3d39f",
     "dependencies" : {
-      "PCK.AUTOMIC_SHARED" : "~>1.1.0"
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
-  "homepage" : "",
+  "homepage" : "www.automic.com",
   "license" : "Automic License",
-  "categories" : "",
-  "title" : "NEW.PACKAGE"
+  "categories" : "HPQC Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic HPQC package"
 }
