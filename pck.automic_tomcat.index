@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Tomcat_PCK.AUTOMIC_TOMCAT_1_0_0+build.155.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Tomcat_PCK.AUTOMIC_TOMCAT_1_0_1+build.164.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "ee0c731c0bbec4335147f1093918c65f581eabc4",
+    "version" : "1.0.1",
+    "sha1" : "6f584faba66d4e2cb276770ea46dbdca11bb0011",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
