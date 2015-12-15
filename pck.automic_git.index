@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_GIT",
+  "description" : "Wraps the git version control command line tool",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.GIT_PCK.AUTOMIC_GIT_1_0_0+build.23.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "96c00bd027bf6471b79fe7b1e594c5eb0c0aa7f5",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "SCM,Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Git"
+}
