@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CHEF",
+  "description" : "Manage provisioning using a Chef server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Chef_PCK.AUTOMIC_CHEF_1_0_0+build.33.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "7d0dd778aea60e908af07fa5dbeab05ade7c9cdb",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Provisioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Chef"
+}
