@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JDBC_PCK.AUTOMIC_JDBC_1_0_0+build.56.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JDBC_PCK.AUTOMIC_JDBC_1_1_0+build.68.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "a3a3ece7eb11d150d99c6825de488c437af2dd9d",
+    "version" : "1.1.0",
+    "sha1" : "9e21e5875cfc9ef3990a5418935119ce930dd3ac",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
