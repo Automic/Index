@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.MSSQL_PCK.AUTOMIC_MSSQL_1_0_0+build.14.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.MSSQL_PCK.AUTOMIC_MSSQL_1_0_1+build.23.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "7239ba7fc43d1a8e00c5b0b17cf55829526b6993",
+    "version" : "1.0.1",
+    "sha1" : "3c991db4de223af7f4510fb801e15a9957556df9",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_JDBC" : "~>1.1"
