@@ -1,16 +1,17 @@
 {
   "name" : "PCK.AUTOMIC_CVS",
-  "description" : "Export sources from CVS.",
+  "description" : "Provides actions to work with CVS.",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.CVS_PCK.AUTOMIC_CVS_1_1_0+build.106.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.CVS_PCK.AUTOMIC_CVS_1_2_0+build.137.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "ae3af04a28d6d14eacb7bc1cc5188cdd364ae6a4",
+    "version" : "1.2.0",
+    "sha1" : "8b752e434c22f9c01020443c7cb8190f4af83792",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : "~>1.1"
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
     }
   },
   "company" : "Automic Software GmbH",
