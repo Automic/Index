@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JBOSS_V5",
+  "description" : "Application Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JBoss.v5_PCK.AUTOMIC_JBOSS_V5_1_0_0+build.86.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "6234140ff30b66f713efc932e02526ec27b88d43",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic JBoss_v5"
+}
