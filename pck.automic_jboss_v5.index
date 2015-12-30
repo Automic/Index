@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JBoss.v5_PCK.AUTOMIC_JBOSS_V5_1_0_0+build.86.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.JBoss.v5_PCK.AUTOMIC_JBOSS_V5_1_0_1+build.91.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "6234140ff30b66f713efc932e02526ec27b88d43",
+    "version" : "1.0.1",
+    "sha1" : "03d9a492f481c87fdaefa504a06f53966da36ed7",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
