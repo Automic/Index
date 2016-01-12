@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_AMAZON",
+  "description" : "Manage Amazon EC2 instances (wraps the AWS CLI).",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Amazon_PCK.AUTOMIC_AMAZON_1_0_0+build.58.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "a265deef4b85b7f147d5a1960af98839dd68b972",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Virtualization",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic AMAZON"
+}
