@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Weblogic_PCK.AUTOMIC_WEBLOGIC_1_0_0+build.26.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Weblogic_PCK.AUTOMIC_WEBLOGIC_1_1_0+build.39.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "1dbb44194e148d167aa2d61b9fe916ad7153d2e2",
+    "version" : "1.1.0",
+    "sha1" : "b0dc405a41e87329ce04d13880636b1d498c0eb1",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
