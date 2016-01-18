@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.DM_PCK.AUTOMIC_DM_1_1_0+build.124.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.DM_PCK.AUTOMIC_DM_1_2_0+build.129.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "b443adea11387e78a9be369b94336d31ec6497ee",
+    "version" : "1.2.0",
+    "sha1" : "d981edf79f47c93c4a5833cafe3094dc0f600ff5",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_BOND" : "~>1.0"
