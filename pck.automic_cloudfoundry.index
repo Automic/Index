@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CLOUDFOUNDRY",
+  "description" : "Provides integration with Cloud Foundry",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.CloudFoundry_PCK.AUTOMIC_CLOUDFOUNDRY_1_0_0+build.29.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "d8d082d209ce4cb7db1f2d5de07691253b415d36",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Cloud Foundry Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Cloud Foundry Package"
+}
