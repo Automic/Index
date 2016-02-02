@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Jenkins_PCK.AUTOMIC_JENKINS_1_0_0+build.17.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Jenkins_PCK.AUTOMIC_JENKINS_1_1_0+build.21.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "e35011dcf4a3e855f18357b928299464a932d2be",
+    "version" : "1.1.0",
+    "sha1" : "26b671dd6bd9534b40b64ea6b06248578623532a",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
