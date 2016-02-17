@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Siebel_PCK.AUTOMIC_SIEBEL_3_0_0+build.359.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Siebel_PCK.AUTOMIC_SIEBEL_3_0_1+build.1.zip",
     "devel" : { },
     "head" : { },
-    "version" : "3.0.0",
-    "sha1" : "a9d239eaa2eb6c160c26a5e78cc9d332d90aa906",
+    "version" : "3.0.1",
+    "sha1" : "07ef3d5c817902eabcb8ada038775e85209a4e5d",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
