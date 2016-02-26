@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.IBM.WebSphere_PCK.AUTOMIC_IBM_WEBSPHERE_1_0_0+build.203.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.IBM.WebSphere_PCK.AUTOMIC_IBM_WEBSPHERE_1_1_0+build.47.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "d59ba9e7e1e1a407ee08db70d68126af0a19681f",
+    "version" : "1.1.0",
+    "sha1" : "c8cdf61e84ba4b5dab57dc1511cc746615c2ce2f",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
