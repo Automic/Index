@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.TFS_PCK.AUTOMIC_TFS_1_1_0+build.95.zip",
+    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.TFS_PCK.AUTOMIC_TFS_1_2_0+build.76.zip",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "ec661e87b9a5f1fe26607afb8987484c60c57b9a",
+    "version" : "1.2.0",
+    "sha1" : "155a83e5b8826fa8143d88b44e6a5f339eebe1d0",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
