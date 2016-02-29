@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.TFS_PCK.AUTOMIC_TFS_1_2_0+build.76.zip",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1455537610788",
     "devel" : { },
     "head" : { },
     "version" : "1.2.0",
