@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.Azure_PCK.AUTOMIC_AZURE_1_0_2+build.60.zip",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910921870",
     "devel" : { },
     "head" : { },
     "version" : "1.0.2",
