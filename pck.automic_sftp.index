@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "ftp://ftp.automic.com/Automic.Action.Packs/Package.SFTP_PCK.AUTOMIC_SFTP_1_1_0+build.90.zip",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910860755",
     "devel" : { },
     "head" : { },
     "version" : "1.1.0",
