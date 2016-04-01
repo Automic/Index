@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_ORACLE_SOA",
+  "description" : "This package contains actions to interact with Oracle SOA",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1458228295368",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "24f90ca9399ff6937bce0a09658983f3075d30ea",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
+      "PCK.AUTOMIC_WEBLOGIC" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Oracle SOA"
+}
