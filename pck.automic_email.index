@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910861023",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1460458778568",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "f839f7707f1fd9e02f94d32a78367911f041e314",
+    "version" : "1.1.1",
+    "sha1" : "3201cd951a2e03f33a5dd05120e8bb3e79082267",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Messaging",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic email package"
 }
