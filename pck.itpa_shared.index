@@ -4,17 +4,17 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1458228267073",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1461661682252",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.1",
-    "sha1" : "27242e18d230e655f721e7aa0bfeef36a2048632",
+    "version" : "1.1.2",
+    "sha1" : "5ba243b68497055ad67364242637ddaf7c035927",
     "dependencies" : { }
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Utility",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "ITPA Shared"
 }
