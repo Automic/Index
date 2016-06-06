@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1448963417484",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1461661799265",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "9e21e5875cfc9ef3990a5418935119ce930dd3ac",
+    "version" : "1.2.0",
+    "sha1" : "7324edeb1eb3ebabd8e3356a1728562204099a3e",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Database",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic JDBC Package"
 }
