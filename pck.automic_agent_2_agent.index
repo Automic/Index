@@ -4,19 +4,19 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910859290",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1468330506341",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "f9befb164d14f07f2e95e1fdbd1561ff3f8e354a",
+    "version" : "1.1.1",
+    "sha1" : "d1e51525a7589a3dda5e18c00a320098ccedf9f3",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : "~>1.1"
+      "PCK.ITPA_SHARED" : "~>1.2"
     }
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Network, Download",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic Agent to Agent"
 }
