@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.CUSTOM_NTN",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "file:///E:/Work/PCK.CUSTOM_NTN_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "ab57a27f985315c9b6e534dadd9405223e3f1c75",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0",
+      "PCK.FOO" : "~>1.0"
+    }
+  },
+  "company" : "Custom",
+  "homepage" : "www.yourcompany.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "ntn"
+}
