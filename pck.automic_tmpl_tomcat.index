@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_TOMCAT",
+  "description" : "Template workflows for Tomcat Deployments",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1455537698436",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e24a59a1b7f8123a25a01f7112a606e594afcebc",
+    "dependencies" : {
+      "PCK.AUTOMIC_TOMCAT" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for Tomcat Deployments"
+}
