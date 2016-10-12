@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1441360094635",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937278134",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "7d0a0640d0ccbc548be43e696bc344537a6693e3",
+    "version" : "1.1.1",
+    "sha1" : "4e7211312cf2df57d51be0dabc7277b9b9f90d73",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Java Properties, File manipulation",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic Java Properties"
 }
