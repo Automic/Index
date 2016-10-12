@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910859394",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937335907",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "c28f63cd8d86283687f68417ab3069cf28f092ea",
+    "version" : "1.2.0",
+    "sha1" : "96900fdbbe85bdc53a206036a4eb1934480f2712",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "Commercial",
   "categories" : "OS, WIN",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic Windows Service"
 }
