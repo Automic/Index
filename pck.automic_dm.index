@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1461661980750",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937277481",
     "devel" : { },
     "head" : { },
-    "version" : "1.2.1",
-    "sha1" : "c33a0e840471a798fbca3547e0f49e6be16b6284",
+    "version" : "1.2.2",
+    "sha1" : "df921adae59dfd7f2d00e63fef94cb9080b940ac",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_BOND" : "~>1.0"
@@ -18,6 +18,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Application Release Manager",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic DM Package"
 }
