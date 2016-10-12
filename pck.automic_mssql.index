@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1449237236855",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937279588",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.1",
-    "sha1" : "3c991db4de223af7f4510fb801e15a9957556df9",
+    "version" : "1.0.2",
+    "sha1" : "6e35395d6e64ede84101d76a988704c11ec96ab2",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_JDBC" : "~>1.1"
@@ -18,6 +18,6 @@
   "homepage" : "",
   "license" : "",
   "categories" : "Database, Microsoft",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic MSSQL"
 }
