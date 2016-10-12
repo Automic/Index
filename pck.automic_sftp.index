@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910860755",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937279845",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.0",
-    "sha1" : "32c0ca980ebd56452c8856e0c94b78c50f3189dd",
+    "version" : "1.1.1",
+    "sha1" : "45fc62f3ae8dd3a79c0facbf663e9bb176c24874",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Network, Download ",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic SFTP"
 }
