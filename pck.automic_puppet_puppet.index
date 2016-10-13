@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_PUPPET_PUPPET",
+  "description" : "Provides integration with Puppet",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937597540",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "6c37519f31563e8ca14665ddef593c6eba986271",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Puppet Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Puppet package"
+}
