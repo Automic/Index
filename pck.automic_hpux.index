@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910861310",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937621605",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "37f39af1fdf264971d617658c38024d44be62c55",
+    "version" : "1.0.1",
+    "sha1" : "ea8ffbd413eda9f2fc2d80bd7f5e76a6f2ab07e8",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "System, Utilities",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "HPUX"
 }
