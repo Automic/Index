@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1442910860806",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937621621",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "2c2028f9a28dfd1dc8f74e98c7bb66adca265ab8",
+    "version" : "1.0.1",
+    "sha1" : "526d2a46c1442b37e57896ba5369367a6fea77ff",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "System, Utilities",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic MSI"
 }
