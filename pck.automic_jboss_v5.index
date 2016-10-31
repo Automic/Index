@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1450814089243",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1476714852691",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.1",
-    "sha1" : "03d9a492f481c87fdaefa504a06f53966da36ed7",
+    "version" : "1.0.2",
+    "sha1" : "13bb924116ebcd963c790fd87bb400e1eba4f1b4",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Application Server",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.2.0",
   "title" : "Automic JBoss_v5"
 }
