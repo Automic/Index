@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_EMAIL",
+  "description" : "Contains actions for receiving and sending emails via SMTP and IMAP.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937277943",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "23d17f4b96988a53269654e67b2968f0a20b3bfa",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Messaging",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic email package"
+}
