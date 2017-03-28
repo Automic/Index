@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_HTTP",
+  "description" : "Download files from a web server via HTTP or HTTPS.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1482229029567",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "ef3c3def3add86b4d9f90db2ec3084f908bed918",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic HTTP package"
+}
