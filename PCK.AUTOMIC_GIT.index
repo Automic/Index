@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_GIT",
+  "description" : "Wraps the git version control command line tool",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937613314",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "636fa95ecff276478c0d48ba821416a9a6ffb45b",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "SCM,Versioning",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Git"
+}
