@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CA_BLAZEMETER",
+  "description" : "Provides integration with CA Blazemeter",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1490172000254",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "b6f921440f6c698d1a8da39472da25876f346ea1",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : ">1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA Blazemeter Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic CA Blazemeter Package"
+}
