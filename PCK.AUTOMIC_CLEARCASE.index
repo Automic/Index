@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CLEARCASE",
+  "description" : "Provides actions to work with Rational ClearCase",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1476714847636",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "267c874c45a04f7981570f6bc5487ec61633fe85",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "SCM,Versioning",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic ClearCase Package"
+}
