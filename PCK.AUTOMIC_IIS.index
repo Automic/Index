@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_IIS",
+  "description" : "Manage Internet Information Server Application",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1476715288420",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.2",
+    "sha1" : "a0461588e1429c15128e98458260d7515e9e6352",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic IIS"
+}
