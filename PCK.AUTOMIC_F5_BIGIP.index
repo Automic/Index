@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_F5_BIGIP",
+  "description" : "F5 BigIP Local Traffic Manager Actions using the iControl libraries offered by F5.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937625460",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "1e02b8a655b9b4581d7a027b725a26f92cada7a1",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Load balancing",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic F5 BIGIP"
+}
