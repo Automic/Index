@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_ORACLE_OSB",
+  "description" : "Provides integration with Oracle OSB",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1466581028767",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "2249ad4f4b36d042a68565b4b1536ee5bd4d750c",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Oracle OSB Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Oracle OSB Package"
+}
