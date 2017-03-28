@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SMB",
+  "description" : "Downloads files from a SMB/CIFS server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1482229008511",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.2",
+    "sha1" : "b581ffef4620005284df8519f0f47df93adfb03c",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Network, Download",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic SMB"
+}
