@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_ANSIBLE",
+  "description" : "Provides integration with Ansible",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1448445382580",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "27c4680cd9504f69cfe0b50486d280b66f2ed01e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Ansible Integration Package",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Integration package for Ansible"
+}
