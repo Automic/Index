@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_LDAP",
+  "description" : "Make use of the Lightweight Directory Access Protcol.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1482229036850",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "28a48620ebac0330d940a86d7333373703b8db7b",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Directory Services",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic LDAP"
+}
