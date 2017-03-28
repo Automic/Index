@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_SIEBEL",
+  "description" : "The Siebel Offering speeds up the deployment of Siebel applications. It also reduces downtime and increases agility of Siebel environments.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1476715466254",
+    "devel" : { },
+    "head" : { },
+    "version" : "4.0.0",
+    "sha1" : "9494efb80ce7ad39eb73dc4566cc142f52d73ccc",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_JDBC" : "~>1.0",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Siebel",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Siebel Package"
+}
