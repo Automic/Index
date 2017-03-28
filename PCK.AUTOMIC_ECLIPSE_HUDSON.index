@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_ECLIPSE_HUDSON",
+  "description" : "Provides integration with Eclipse Hudson",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1458823309042",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e751566f50ab774ad201ac5d62c557ebd77b3a61",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Eclipse Hudson Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Eclipse Hudson Package"
+}
