@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_ATLASSIAN_JIRA",
+  "description" : "Provides integration with JIRA",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1461661973320",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "1de500fdb13f62280a99b310f6dfb61241fb7ebc",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "JIRA Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic JIRA package"
+}
