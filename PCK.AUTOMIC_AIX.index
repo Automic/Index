@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_AIX",
+  "description" : "These actions install, upgrade, remove and query installed packages on your AIX host. ",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937621488",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "a688631f925ebf3987f0ff2ec57913fceb93a006",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Package Manager",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "AIX"
+}
