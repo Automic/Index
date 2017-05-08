@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CA_SDM",
+  "description" : "Provides integration with CA SDM",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1493821438939",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "e4a7a27811abd03b69ba0995214c2bce0bbc1a8a",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA Service Desk Manager Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic CA SDM Package"
+}
