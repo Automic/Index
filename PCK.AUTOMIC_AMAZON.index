@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1450814126894",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1496745221781",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "a265deef4b85b7f147d5a1960af98839dd68b972",
+    "version" : "1.0.1",
+    "sha1" : "032e23bcdaab76f711603a1094258c85fc11e16f",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Virtualization",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.3.0",
   "title" : "Automic AMAZON"
 }
