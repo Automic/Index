@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937280153",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1500370013795",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.1",
-    "sha1" : "482607cba19658d45470e630f258e0d47643e7c5",
+    "version" : "1.0.2",
+    "sha1" : "3c758eb70a31a6334433d77cb7cbe7830bd971ff",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Test",
-  "packageFormatVersion" : "0.2.0",
+  "packageFormatVersion" : "0.3.0",
   "title" : "Automic Smoke Web"
 }
