@@ -1,14 +1,14 @@
 {
   "name" : "PCK.AUTOMIC_CAU_AGENT_UNIX",
-  "description" : "Agent upgrade resources for Windows",
+  "description" : "Agent upgrade resources for unix",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1495572704393",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503670661242",
     "devel" : { },
     "head" : { },
-    "version" : "12.0.2",
-    "sha1" : "0d77b86323a16a59be4f5273fc0915bf2d818d5e",
+    "version" : "12.0.3",
+    "sha1" : "db1f522bb6871843b28a534b04a5bf0ff4a0dcde",
     "dependencies" : { }
   },
   "company" : "Custom",
@@ -16,5 +16,5 @@
   "license" : "",
   "categories" : "",
   "packageFormatVersion" : "0.2.0",
-  "title" : "Agent upgrade resources for Windows"
+  "title" : "Agent upgrade resources for unix"
 }
