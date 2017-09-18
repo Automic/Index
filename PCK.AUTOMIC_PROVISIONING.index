@@ -4,17 +4,21 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1473937651703",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503672372213",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.1",
-    "sha1" : "dc93f79171f12d38160d92ccba54cbe8f3928f0c",
-    "dependencies" : { }
+    "version" : "2.0.0",
+    "sha1" : "5560f15372cf44d7b0d53826d0285fe2e0e63fdf",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0",
+      "PCK.AUTOMIC_AGENT_DEPLOYMENT" : "~>1.0"
+    }
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Application Release Automation",
-  "packageFormatVersion" : "0.2.0",
+  "packageFormatVersion" : "0.3.0",
   "title" : "Automic Provisioning"
 }
