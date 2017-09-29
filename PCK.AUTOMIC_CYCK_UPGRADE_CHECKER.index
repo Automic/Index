@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_CYCK_UPGRADE_CHECKER",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503672636424",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "f7f744d7814a770f2da61d4f4b653ae5ad29dc3e",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Upgrade Checker for One Automation Platform"
+}
