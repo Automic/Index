@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503671862873",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503672865651",
     "devel" : { },
     "head" : { },
-    "version" : "12.0.3",
-    "sha1" : "d2ca547b03254509c66c6d9a38512dee870acd7d",
+    "version" : "12.1.0",
+    "sha1" : "645af8fed0d21dbab4cc83016e1efe0ee9147f15",
     "dependencies" : { }
   },
   "company" : "Custom",
