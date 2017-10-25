@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_IBM_ZOS",
+  "description" : "Provides integration with IBM ZOS",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1508914875063",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.3.0",
+    "sha1" : "1f25127960bae8259f4af0b2d95a20a0790c3c4f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "IBM ZOS Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic IBM ZOS Package"
+}
