@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TEMENOS_T24",
+  "description" : "Provides integration with Temenos T24",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1507033377215",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "65d50132d70ebe38116d54a118c16d39022497b2",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Temenos T24",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Temenos T24 Package"
+}
