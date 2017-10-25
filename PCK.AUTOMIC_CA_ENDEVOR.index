@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CA_ENDEVOR",
+  "description" : "Provides integration with CA Endevor",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1507033567250",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.2.0",
+    "sha1" : "6a1ebcfe44a9a5c0b3735a33e45b508677474603",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA Endevor Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic CA Endevor Package"
+}
