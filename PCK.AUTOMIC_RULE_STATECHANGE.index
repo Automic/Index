@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_RULE_STATECHANGE",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1510810362627",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "0150434a49139a34447f3e2abd9f6089f2704057",
+    "dependencies" : { }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "State Change Rule"
+}
