@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_RM",
+  "description" : "Enables ARA to provision Stacks running on a VMware vSphere",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1514878151610",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "88e7b30bd5e2cab255b65bd250963e9c9adc5f33",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Release Manager",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic Release Manager Package"
+}
