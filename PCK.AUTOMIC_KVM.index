@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_KVM",
+  "description" : "Provides integration with KVM",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1514878364933",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "3a9099ef3aac6910f0e10f7f589f382c7a79a449",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "KVM Integration",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic KVM Package"
+}
