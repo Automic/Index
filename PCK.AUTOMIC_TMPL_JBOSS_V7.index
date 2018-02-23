@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_JBOSS_V7",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1518171611009",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "cda7275a92133505308ac7267cda8561ef11b366",
+    "dependencies" : {
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
+      "PCK.AUTOMIC_JBOSS_V7" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for JBoss V7 Deployments"
+}
