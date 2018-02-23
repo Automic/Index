@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_JBOSS_V7",
+  "description" : "Application Server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1518171610493",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "1fb727e8b2523995460bc08ef1badad9f3f86f52",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "JBOSS_V7"
+}
