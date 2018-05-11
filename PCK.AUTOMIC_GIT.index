@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1519665052427",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1525259267269",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.3",
-    "sha1" : "e2f77b7b768689dbe2f2df104034b3828aa09dee",
+    "version" : "1.0.4",
+    "sha1" : "068e6a703b1b866c367d08585261bc8a79590d24",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.1",
       "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
@@ -19,5 +19,5 @@
   "license" : "",
   "categories" : "SCM,Versioning",
   "packageFormatVersion" : "0.2.0",
-  "title" : "Git"
+  "title" : "Automic Git"
 }
