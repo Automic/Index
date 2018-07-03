@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CA_CA7",
+  "description" : "Provides integration with CA CA-7",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1529255998111",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "5826005cfe38725cff88a5ad37a19aeb6dbe91f9",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA CA-7 Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "CA CA-7"
+}
