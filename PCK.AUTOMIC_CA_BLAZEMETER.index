@@ -4,19 +4,19 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1490172000254",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1495576993964",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "b6f921440f6c698d1a8da39472da25876f346ea1",
+    "version" : "2.0.0",
+    "sha1" : "789159bab5a0778766184342490823c9d5889185",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : ">1.1"
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
     }
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
   "license" : "Automic License",
   "categories" : "CA Blazemeter Integration",
-  "packageFormatVersion" : "0.1.0",
+  "packageFormatVersion" : "0.3.0",
   "title" : "Automic CA Blazemeter Package"
 }
