@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_UIPATH",
+  "description" : "Provides integration with UiPath",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1540809407305",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "7a978306b6bcd703403bcb888f720592291dbcb9",
+    "dependencies" : {
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License ",
+  "categories" : "UiPath Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "UiPath Package"
+}
