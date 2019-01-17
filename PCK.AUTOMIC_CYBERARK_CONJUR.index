@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CYBERARK_CONJUR",
+  "description" : "Provides integration with CyberArk Conjur",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1542266140396",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "ea263c1d6f529ac6a4f2037b65db7b9286e23a98",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CyberArk Conjur Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "CyberArk Conjur"
+}
