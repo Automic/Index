@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_JSON",
+  "description" : "An action pack for doing the operation on JSON Content .",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1542266528225",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "d48dffd67ca2e0eaf479492ad885ef7a4c32764e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.2"
+    }
+  },
+  "company" : "Automic Software Gmbh",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "JSON",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic JSON"
+}
