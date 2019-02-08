@@ -1,0 +1,25 @@
+{
+  "name" : "PCK.AUTOMIC_SIEBEL_IP18",
+  "description" : "The Siebel Offering speeds up the deployment of Siebel applications. It also reduces downtime and increases agility of Siebel environments.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1548081689321",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "3b8f79d58450b58a63303fa2227dc013da34300e",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_JDBC" : "~>1.0",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Siebel",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Siebel Package for IP18"
+}
