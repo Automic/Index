@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_HELM",
+  "description" : "Wraps the helm command line tool",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1561644083923",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "0c6a1d056a68257f92dc1f25fad7366ed47eed1f",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Deployment",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic Helm"
+}
