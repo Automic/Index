@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_CAU_AGENT_SAP",
+  "description" : "Agent upgrade resources for sap",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1560443112792",
+    "devel" : { },
+    "head" : { },
+    "version" : "12.3.0",
+    "sha1" : "99620d1229bc1c1117086d43bfd4bbf4e3aa0e80",
+    "dependencies" : { }
+  },
+  "company" : "Custom",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Agent upgrade resources for sap"
+}
