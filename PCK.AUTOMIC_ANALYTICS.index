@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1503672954155",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1561644331081",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.3",
-    "sha1" : "f1a10e8141b5eceec927f6795e5dcff91f9fdcd8",
+    "version" : "2.0.0",
+    "sha1" : "021dc84e6a3c20c7e33367f3ed01add8954274b2",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.2"
     }
@@ -17,6 +17,6 @@
   "homepage" : "www.automic.com",
   "license" : "",
   "categories" : "Automic Analytics",
-  "packageFormatVersion" : "0.2.0",
+  "packageFormatVersion" : "0.3.0",
   "title" : "ANALYTICS"
 }
