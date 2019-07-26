@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TENABLE_IO",
+  "description" : "Provides integration with Nessus Tenable.io",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1562665324963",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "c605256297e84328aefdda15b6f28ad3119f9a38",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License ",
+  "categories" : "Nessus Tenable.io Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Nessus Tenable Package"
+}
