@@ -4,14 +4,15 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1468330487450",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1562665827466",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "576967b58d7fda8832aeca1405e83f7a6da6f2cd",
+    "version" : "1.1.0",
+    "sha1" : "251f6e2400f43c2cd841fcbf3fe57d5093223918",
     "dependencies" : {
-      "PCK.AUTOMIC_FILESYSTEM" : "~>1.1",
-      "PCK.AUTOMIC_IBM_WEBSPHERE" : "~>1.1"
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.2",
+      "PCK.AUTOMIC_BOND" : "~>1.2",
+      "PCK.AUTOMIC_IBM_WEBSPHERE" : "~>1.5"
     }
   },
   "company" : "Automic",
