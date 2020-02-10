@@ -7,8 +7,8 @@
     "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1580454400859",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.4",
-    "sha1" : "a933ac2e9f70e024eb13bdf192c1c8204acbd1c8",
+    "version" : "1.1.5",
+    "sha1" : "6aeee83699ad3895a40b625380d00a835d84e584",
     "dependencies" : { }
   },
   "company" : "Broadcom",
