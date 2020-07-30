@@ -1,0 +1,21 @@
+{
+  "name" : "PCK.AUTOMIC_SSIS",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1594796136176",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "c791581a834d0c23eab311cd3a4e8a0673da34c3",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "https://community.broadcom.com/enterprisesoftware/communities/communityhomeblogs?CommunityKey=2e1b01c9-f310-4635-829f-aead2f6587c4",
+  "license" : "",
+  "categories" : "Microsoft SSIS",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Execute SSIS Packages"
+}
