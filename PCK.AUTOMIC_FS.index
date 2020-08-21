@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_FS",
+  "description" : "Create and copy files and directories. Extract and compress archives.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1596720836133",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "68fa0c9098cc3cf352e88154f41898f76ceabda1",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.3"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "File, Disk",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic FS"
+}
