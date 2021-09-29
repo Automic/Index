@@ -1,16 +1,16 @@
 {
   "name" : "PCK.AUTOMIC_RM",
-  "description" : "Enables ARA to provision Stacks running on a VMware vSphere",
+  "description" : "Enables interact with ARA via REST API",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1514878151610",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631859217048",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
-    "sha1" : "88e7b30bd5e2cab255b65bd250963e9c9adc5f33",
+    "version" : "2.0.0",
+    "sha1" : "03ab56375b41fef02b2155877c950a819d8a4c39",
     "dependencies" : {
-      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.ITPA_SHARED" : "~>1.3",
       "PCK.AUTOMIC_RA_REST" : "~>1.0"
     }
   },
