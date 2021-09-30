@@ -1,14 +1,14 @@
 {
   "name" : "PCK.AUTOMIC_CYCK_UPGRADE_CHECKER",
-  "description" : "",
+  "description" : "For AE v21",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1580454400859",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631857685672",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.5",
-    "sha1" : "6aeee83699ad3895a40b625380d00a835d84e584",
+    "version" : "1.1.6",
+    "sha1" : "537b2ff63997ea7b9923e5b657a00e8aca98b707",
     "dependencies" : { }
   },
   "company" : "Broadcom",
@@ -16,5 +16,5 @@
   "license" : "",
   "categories" : "",
   "packageFormatVersion" : "0.2.0",
-  "title" : "Upgrade Checker for One Automation Platform"
+  "title" : "Upgrade Checker for Automation Engine Updates"
 }
