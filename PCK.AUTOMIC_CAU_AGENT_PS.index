@@ -1,14 +1,14 @@
 {
   "name" : "PCK.AUTOMIC_CAU_AGENT_PS",
-  "description" : "Agent upgrade resources for peoplesoft.java",
+  "description" : "Agent upgrade resources for racore",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1627279904786",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631516344344",
     "devel" : { },
     "head" : { },
-    "version" : "12.3.6",
-    "sha1" : "9932937e52eac31c84961ee102c3370a0db104bb",
+    "version" : "21.0.0",
+    "sha1" : "820fff3331529bfa5ed4caed93d4c4a9edf7e3d9",
     "dependencies" : { }
   },
   "company" : "Custom",
@@ -16,5 +16,5 @@
   "license" : "",
   "categories" : "",
   "packageFormatVersion" : "0.2.0",
-  "title" : "Agent upgrade resources for peoplesoft.java"
+  "title" : "Agent upgrade resources for racore"
 }
