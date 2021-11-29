@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_CAU_AGENT_TLS_GTW",
+  "description" : "Agent upgrade resources for TLS_GTW",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1637002497499",
+    "devel" : { },
+    "head" : { },
+    "version" : "21.0.1",
+    "sha1" : "618f01a206d0fee10ef6fb42d0b58204b65d9105",
+    "dependencies" : { }
+  },
+  "company" : "Custom",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Agent upgrade resources for TLS_GTW"
+}
