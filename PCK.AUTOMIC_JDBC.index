@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1638902892996",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1638903826780",
     "devel" : { },
     "head" : { },
-    "version" : "1.4.2",
-    "sha1" : "7f73494b6e2ac11e622b1a56114dd51bc53634f8",
+    "version" : "1.4.3",
+    "sha1" : "a35043261ac2c394d01238ce0ac43dfb81bc1a93",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.2"
     }
