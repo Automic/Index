@@ -2,7 +2,7 @@
   "name" : "PCK.AUTOMIC_RULE_SIMPLE",
   "description" : "",
   "repository" : {
-    "type" : "archive",
+    "type" : "release/1.4.0",
     "branch" : "master",
     "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631859137485",
     "devel" : { },
