@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631857685672",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1674134593650",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.6",
-    "sha1" : "537b2ff63997ea7b9923e5b657a00e8aca98b707",
+    "version" : "1.1.7",
+    "sha1" : "9a9300f14a0a78be15a272748766164920a027bb",
     "dependencies" : { }
   },
   "company" : "Broadcom",
