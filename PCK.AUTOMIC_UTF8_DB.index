@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_UTF8_DB",
+  "description" : "Manage application deployments",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1704907790412",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "94339d32839f0f44c56cec239ad8a59d720c4a96",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Database Migration from Non-UTF-8 to UTF-8 Package"
+}
