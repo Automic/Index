@@ -1,14 +1,14 @@
 {
   "name" : "PCK.AUTOMIC_CYCK_UPGRADE_CHECKER",
-  "description" : "For AE v21",
+  "description" : "For AE v24",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1674134593650",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1700571889296",
     "devel" : { },
     "head" : { },
-    "version" : "1.1.7",
-    "sha1" : "9a9300f14a0a78be15a272748766164920a027bb",
+    "version" : "1.1.8",
+    "sha1" : "fcf3c41fcf8e2400bc1cfc5e53fedca7e8c7f27f",
     "dependencies" : { }
   },
   "company" : "Broadcom",
