@@ -4,11 +4,11 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1631858987139",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1701094087576",
     "devel" : { },
     "head" : { },
-    "version" : "21.0.0",
-    "sha1" : "ff203badb4f14afc3c4ce670d63cde20faea8e8b",
+    "version" : "21.0.9",
+    "sha1" : "9c2154e88f491d3f0bf926b45ac773c93e2a9860",
     "dependencies" : { }
   },
   "company" : "Custom",
@@ -18,4 +18,3 @@
   "packageFormatVersion" : "0.2.0",
   "title" : "Agent upgrade resources for windows"
 }
-
