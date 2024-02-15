@@ -7,7 +7,7 @@
     "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1704908251577",
     "devel" : { },
     "head" : { },
-    "version" : "24.0.0",
+    "version" : "21.0.0",
     "sha1" : "ff203badb4f14afc3c4ce670d63cde20faea8e8b",
     "dependencies" : { }
   },
