@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_SSH",
+  "description" : "Provides integration with SSH",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1731493664743",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "246b2a7af032c042c798b4c893886d09392e3a97",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_FILESYSTEM" : "~>1.2"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "SSH",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic SSH"
+}

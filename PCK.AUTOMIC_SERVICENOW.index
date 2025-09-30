@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_SERVICENOW",
+  "description" : "Provides integration with ServiceNow",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1675346018984",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.5",
+    "sha1" : "89e021b1e6cee66daa243a5c145c7f67282f0f66",
+    "dependencies" : {
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License ",
+  "categories" : "ServiceNow Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "SERVICENOW"
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_CITRIX_NETSCALER",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1594799814164",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "49dea66f36f8e10ca2e204c24948169e48d38957",
+    "dependencies" : {
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Citrix NetScaler"
+}

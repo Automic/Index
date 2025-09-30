@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_CA_AUTOSYS",
+  "description" : "Provides integration with CA Autosys",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1597905823749",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.1",
+    "sha1" : "0182a57286fef3003137ffc738fc0cca6eacffe6",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1",
+      "PCK.AUTOMIC_RA_REST" : "~>1.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "CA Autosys",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic CA Autosys"
+}
