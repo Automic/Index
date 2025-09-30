@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_BROCADE",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1597907042171",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.2",
+    "sha1" : "833d6a3436aad36938d566484126c62c82806027",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "Automic License",
+  "categories" : "Brocade Integration",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "Automic Brocade"
+}

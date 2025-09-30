@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_IIS",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1750835760189",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "948a6065b2f9bc2116a4b2f70fb0dd4e4762f69a",
+    "dependencies" : {
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.4",
+      "PCK.AUTOMIC_IIS" : "~>2.0",
+      "PCK.AUTOMIC_BOND" : ">=11.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for IIS Deployments"
+}

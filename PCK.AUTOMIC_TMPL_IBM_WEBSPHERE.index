@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_IBM_WEBSPHERE",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1750835760605",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "4e7bd1ed1a8a62ac2ef68d0092c2cf98291f322f",
+    "dependencies" : {
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.4",
+      "PCK.AUTOMIC_BOND" : ">=11.0",
+      "PCK.AUTOMIC_IBM_WEBSPHERE" : "~>2.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for WebSphere Deployments"
+}

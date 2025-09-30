@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_ANALYTICS",
+  "description" : "This Action Pack contains actions and templates \nto schedule analytics reports and share them via email",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1757080057842",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.7",
+    "sha1" : "32ae136896943cb35d8902088805985fcfc68a05",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.2"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Automic Analytics",
+  "packageFormatVersion" : "0.3.0",
+  "title" : "ANALYTICS"
+}

@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_CAU_AGENT_PS",
+  "description" : "Agent upgrade resources for peoplesoft",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1741096219604",
+    "devel" : { },
+    "head" : { },
+    "version" : "24.4.0",
+    "sha1" : "fdb2f1530a92ee989a9cd91fb6549e4a2819619e",
+    "dependencies" : { }
+  },
+  "company" : "Custom",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Agent upgrade resources for peoplesoft"
+}

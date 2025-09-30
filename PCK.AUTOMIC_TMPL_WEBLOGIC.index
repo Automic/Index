@@ -1,0 +1,24 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_WEBLOGIC",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1750835760661",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "5a863491ae439931d88565113f0403511fdbdeb5",
+    "dependencies" : {
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.4",
+      "PCK.AUTOMIC_WEBLOGIC" : "~>2.0",
+      "PCK.AUTOMIC_BOND" : ">=11.0"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for WebLogic Deployments"
+}

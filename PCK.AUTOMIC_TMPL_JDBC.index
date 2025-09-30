@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.AUTOMIC_TMPL_JDBC",
+  "description" : "",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://downloads.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1738446526483",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "f83fc8167da9bd1604d1200b5540cfc3a0bff3be",
+    "dependencies" : {
+      "PCK.AUTOMIC_JDBC" : ">=1.3",
+      "PCK.AUTOMIC_FILESYSTEM" : ">=1.2"
+    }
+  },
+  "company" : "Automic",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Database Server, Template",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Template workflows for JDBC Deployments"
+}
